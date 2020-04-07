@@ -176,7 +176,6 @@ class Cath_File_Upload extends Cath_Api_Handler {
         return $src[0];
     }
 
-
 }
 
 
